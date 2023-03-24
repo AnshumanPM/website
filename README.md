@@ -1,6 +1,6 @@
 ### My Personal Pages
 
-[https://anshumanpm.github.io/website/](https://anshumanpm.github.io/website/)
+[https://www.anshumanpm.eu.org](https://www.anshumanpm.eu.org)
 
 ### Credits:
 Profile card by [Muhammed Erdem](https://codepen.io/JavaScriptJunkie)
